@@ -1,2 +1,2 @@
 # LPNCN (Location Problems Non-Convex Neighborhood)
-Data to replicate the example figures.
+Data to replicate the examples in figures.
